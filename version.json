@@ -1,8 +1,8 @@
 {
-  "latestVersion": "150.0.7871.46",
-  "chromeVersion": "150",
-  "driverFileName": "150.0.7871.46.exe",
-  "downloadUrl": "https://raw.githubusercontent.com/Preechanamchu/KT-drivers/main/drivers/150.0.7871.46.exe",
-  "updatedAt": "2026-07-03",
+  "latestVersion": "152.0.7977.64",
+  "chromeVersion": "152",
+  "driverFileName": "152.0.7977.64.exe.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/Preechanamchu/KT-drivers/main/drivers/152.0.7977.64.exe.exe",
+  "updatedAt": "2026-08-28",
   "description": "KT-Smart Automation ChromeDriver Repository Manifest"
 }
